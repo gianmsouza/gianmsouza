@@ -1,6 +1,6 @@
 - 👋 Hi, eu sou @gianmsouza (Gian Marcel de Souza)
 - 👀 e estou interessado em desenvolvimento Java
-- 🌱 atualmente, estou aprendendo o ecossistema spring boot, git, react, docker e kubernetes
+- 🌱 atualmente, estou aprendendo o ecossistema spring boot, git, docker e kubernetes
 - 📫 você pode me encontrar em gianmarcelsouza@gmail.com :)
 
 <!---
